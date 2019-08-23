@@ -3,10 +3,10 @@
     <div>
       <logo />
       <h1 class="title">
-        nuxt-app-2
+        Lint Stage Bug
       </h1>
       <h2 class="subtitle">
-        My polished Nuxt.js project
+        Maybe? Thanks for your help. ❤
       </h2>
       <div class="links">
         <a href="https://nuxtjs.org/" target="_blank" class="button--green">
